@@ -41,6 +41,10 @@ Here's the README updated with italics as requested:
 
 ## *Installation*
 *To get started with this project, clone the repository and install the necessary dependencies.*
+git clone https://github.com/SnitTeshome/PRODIGY_DS_04
+cd PRODIGY_DS_04
+pip install -r requirements.txt
+
 
 ---
 
