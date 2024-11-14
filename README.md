@@ -1,7 +1,7 @@
 
 ---
-# *PRODIGY_DS_04 
-## Anaylse and Visuzalazation Sentiment Pattern in Socal Media*
+# *PRODIGY_DS_04*
+## *Anaylse and Visuzalazation Sentiment Pattern in Socal Media*
 
 ## *Table of Contents*
 - [*Description*](#description)
