@@ -40,11 +40,11 @@ Here's the README updated with italics as requested:
 ---
 
 ## *Installation*
-
-git clone https://github.com/SnitTeshome/PRODIGY_DS_02
+```bash
+git clone https://github.com/SnitTeshome/PRODIGY_DS_04
 cd PRODIGY_DS_02
 pip install -r requirements.txt
-
+```
 ---
 
 ## *Usage*
