@@ -34,9 +34,9 @@
 - *`Sentiment`: The sentiment label (Positive, Neutral, Negative).*
 - *`Entity`: The topic or brand being discussed in the tweet.*
 
-https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis
 
 *Note: The dataset can be obtained from publicly available Twitter data or specific APIs for research purposes.*
+https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis
 
 ---
 
