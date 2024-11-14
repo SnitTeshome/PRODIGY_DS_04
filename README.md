@@ -2,7 +2,7 @@ Here's the README updated with italics as requested:
 
 ---
 
-# *PRODIGY_DS_04 - Anaylse and Visuzalazation Sentiment Pattern in Socal Media: Twitter*
+# *PRODIGY_DS_04 - Anaylse and Visuzalazation Sentiment Pattern in Socal Media*
 
 ## *Table of Contents*
 - [*Description*](#description)
